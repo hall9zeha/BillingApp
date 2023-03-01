@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Billing App</string>
+    <string name="loginState">loginState</string>
+    <string name="showProducts">Cargar productos</string>
+    <string name="textForTest">Hello World this is a test</string>
+    <string name="removeAds">removeAds</string>
+    <string name="premiumUser">premiumUser</string>
+    <string name="allPaidMsg"><![CDATA[Ya eres usuario premium & tienes la versión sin anuncio]]></string>
+    <string name="removeAdsPaid">Ya tienes la versión sin anuncios</string>
+    <string name="premiumUserPaid">Ya eres usuario premium</string>
+    <string name="successfulPurchase">Felicitaciones compra realizada</string>
+</resources>
